@@ -70,4 +70,3 @@ $>./push_swap 0 one 2 3
 Error
 $>
 ```
-![screen-gif](./so_long.gif)
